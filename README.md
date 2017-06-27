@@ -1,5 +1,5 @@
 # jira-report-helper
-Simple tool (command line only) for creating reports from Jira via API.
+Simple tool (command line only) for creating reports from Jira via API. Works only with tasks that was "In Progress" by current user.
 
 Working with:
 * Scala 2.12.2
